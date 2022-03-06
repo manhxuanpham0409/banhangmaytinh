@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_khachhang" value="name:HoTen;datatype:string,name:Username;datatype:string,name:Password;datatype:string,name:DiaChi;datatype:string,name:Dienthoai;datatype:string,name:Email;datatype:string,name:NgayDangKy;datatype:date,name:NgaySinh;datatype:date,name:GioiTinh;datatype:int" />
+</info>

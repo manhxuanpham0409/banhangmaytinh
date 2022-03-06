@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Web Poll</title>
+<style type="text/css">
+<!--
+.bodytext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+.heading {
+	font-size: 24px;
+	font-weight:bold;
+}
+-->
+</style>
+</head>
+
+<body class="bodytext" bgcolor="#999999">
+<center>
+<table width="800px" style="border:1px solid #666666" cellpadding="5"><tr><td align="left" bgcolor="#FFFFFF">
+<p class="heading"><a href="http://www.phpjabbers.com/flash-calendar/" target="_blank">Flash Web Poll</a></p>
+<p>Thank you for buying Flash Web Poll.</p>
+<p><strong>Installing the poll: </strong>
+<p>1)  before running the installation script you will need to edit the poll-options.php file. You can edit the file using a plain text editing software such as notepad. At the top of the file you will see: 
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td bgcolor="#CCCCCC"><p>&quot;hostname&quot;   =&gt; 'localhost',  </p>
+      <p>&quot;mysql_user&quot; =&gt; 'yourusername',</p>
+      <p>&quot;mysql_pass&quot; =&gt; 'yourpassword',</p>
+      <p>&quot;mysql_database&quot; =&gt; 'yourdatabase',</p>
+      <p>&quot;admin_username&quot; =&gt; 'admin',</p>
+      <p>&quot;admin_password&quot; =&gt; 'pass',</p>
+      <p>&quot;installURL&quot; =&gt; 'http://www.REPLACEYOURWEBSITE.com/poll/',</p>
+      <p>&quot;useCookie&quot; =&gt; false,</p>
+      <p>&quot;maxAnswers&quot; =&gt; 25</p>
+      </td>
+  </tr>
+</table><br />
+  <li>localhost - this is your MySQL server. Most probably localhost will work but it may also be IP address or valid domain name. </li>
+  <li>yourusername - this is the username that you use to connect to your mysql database. Replace yourusername with your MySQL login username </li>
+  <li>yourpassword -  this is the password that you use to connect to your mysql database. Replace yourpassword with your MySQL login password </li>
+  <li>yourdatabase - this is the database name where the MySQL tables will be created. Replace yourdatabase with your MySQL database name </li>
+  <li>admin - this is the default username to login your admin page </li>
+  <li>pass - this is the default password to login your admin page </li>
+  <li>http://www.REPLACEYOURWEBSITE.com/poll/ - enter the full URL for the folder where Web Poll script is installed </li>
+  
+  <li>25 - maximum allowed answers per poll </li>
+  
+  <li> false - poll admin page uses SESSIONs to log you in. However, in case your web server does not support it and you are logged out you need to change this to 'true' so COOKIES will be used instead </li>
+  <p>In case you do not know some of the above data, please contact your hosting provider. Please, note that MySQL username which you will use for the web poll should have INSERT, SELECT, UPDATE, DELETE, CREATE TABLE permissions. </p>
+  <p>3) upload the files in a folder on your web server<br />
+    <br />
+    4) open http://www.REPLACEYOURWEBSITE.com/poll/poll-install.php,  where REPLACEYOURWEBSITE.com is the domain name where you uploaded the files. You will be asked to confirm the login details for your MySQL server. On the next step you will have database tables for your poll created. </p>
+  <p>5) delete the poll-install.php file <br />
+      <br />
+    6)  all you have to do now is to login at http://www.REPLACEYOURWEBSITE.com/poll/poll-admin.php and manage your polls via the administration page</p></td></tr></table>
+</center>
+</body>
+</html>

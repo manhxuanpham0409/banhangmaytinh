@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+#giohang {
+	margin:auto;
+	width:auto;
+	text-align:center;
+	color:#0066FF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+
+.tieude_giohang
+{
+	background-color:#FF0000;
+	color:#FFFFFF;
+	text-align:center;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+}
+.xoaSP:link{
+	background-image:url(../images/xoa1.gif); background-repeat:no-repeat;}
+.xoaSP:hover{background-image:url(../images/xo2.gif); background-repeat:no-repeat}	

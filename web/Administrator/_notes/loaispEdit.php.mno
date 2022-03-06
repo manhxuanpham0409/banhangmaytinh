@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_chungloai" value="name:idCL;datatype:int,name:TenCL;datatype:string" />
+	<infoitem key="UD_rsloaisp" value="name:Ten;datatype:int,name:idCL;datatype:int,name:ThuTu;datatype:int,name:AnHien;datatype:int,name:idLoaiSP;datatype:int" />
+	<infoitem key="UD_ch_loai" value="name:idCL;datatype:int,name:TenCL;datatype:string" />
+</info>

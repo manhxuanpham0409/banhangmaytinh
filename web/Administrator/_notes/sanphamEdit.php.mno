@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hangsx" value="name:idHang;datatype:int,name:Ten;datatype:string" />
+	<infoitem key="UD_chungloai" value="name:idCL;datatype:int,name:TenCL;datatype:string" />
+	<infoitem key="UD_loaisp" value="name:idLoaiSP;datatype:int,name:idCL;datatype:int,name:Ten;datatype:string" />
+	<infoitem key="UD_rssanpham" value="name:TenSP;datatype:int,name:idHang;datatype:int,name:idCL;datatype:int,name:idLoaiSP;datatype:int,name:MoTa;datatype:int,name:HinhAnh;datatype:int,name:DonGia;datatype:int,name:BaoHanh;datatype:int,name:SoLuongTonKho;datatype:int,name:ThuTu;datatype:int,name:AnHien;datatype:int,name:NgayCapNhat;datatype:int,name:idSP;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:idCL;datatype:int,name:TenCL;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:idLoaiSP;datatype:int,name:idCL;datatype:int,name:Ten;datatype:string" />
+</info>

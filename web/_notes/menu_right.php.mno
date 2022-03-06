@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rscustom" value="name:kt_login_user;datatype:int,name:kt_login_password;datatype:int" />
+	<infoitem key="UD_giohang" value="name:idSP;datatype:int,name:TenSP;datatype:string,name:SL;datatype:int,name:TongTien;datatype:real,name:HinhAnh;datatype:string,name:DonGia;datatype:real" />
+	<infoitem key="UD_gh" value="name:idSP;datatype:int,name:TenSP;datatype:string,name:SL;datatype:int,name:TongTien;datatype:real,name:HinhAnh;datatype:string,name:DonGia;datatype:real" />
+</info>

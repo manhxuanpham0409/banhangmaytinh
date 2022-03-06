@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:TenCN;datatype:string,name:idNhomCN;datatype:int" />
+	<infoitem key="UD_rschucnang1" value="name:TenCN;datatype:string,name:urlHinh;datatype:string,name:NoiDung;datatype:blob,name:idNhomCN;datatype:string,name:AnHien;datatype:int,name:idCN;datatype:int" />
+</info>

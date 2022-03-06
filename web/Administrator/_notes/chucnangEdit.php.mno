@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:TenCN;datatype:string,name:idNhomCN;datatype:int" />
+	<infoitem key="UD_rschucnang" value="name:TenCN;datatype:int,name:urlHinh;datatype:int,name:NoiDung;datatype:int,name:idNhomCN;datatype:int,name:AnHien;datatype:int,name:idCN;datatype:int" />
+	<infoitem key="UD_chucnang" value="name:idNhomCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:idNhomCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_rscustom" value="name:TenCN;datatype:int,name:urlHinh;datatype:int,name:NoiDung;datatype:int,name:idNhomCN;datatype:int,name:AnHien;datatype:int,name:idCN;datatype:int,name:kt_login_id;datatype:int" />
+</info>

@@ -1,0 +1,125 @@
+body {
+	width: 1000px; 
+	margin: 0 auto;
+	padding-top: 100px;
+}
+	.MenuWrapper02 {
+		background: url(../images/bg-menu-loop.gif) repeat-x left top;
+	}
+		.MenuWrapper {
+			background: url(../images/bg-menu-right.gif) no-repeat right top;
+			position: relative;
+		}
+			#menu {
+				background: url(../images/bg-menu-left.gif) no-repeat left top;
+				font-size: 1.3em;
+				color: #0c284d;
+				height: 59px;
+				position: relative;
+			}	
+				#menu li {
+					float: left;
+					padding: 6px 7px 0 8px;
+					background: url(../images/border-02.gif) no-repeat left 10px;				
+				}
+				#menu .First {
+					background: none;
+					margin-left: 26px;
+					_margin-left: 13px;
+					padding-left: 0;
+				}
+					#menu li a:link,
+					#menu li a:visited {
+						float: left;
+						height: 25px;
+						font-weight: bolder;
+					}
+						#menu li .LeftBg {
+							float: left;
+							height: 25px;
+							padding-left: 8px;
+						}
+							#menu li .RightBg {
+								float: left;
+								height: 21px;
+								padding: 4px 8px 0 0;
+							}
+					#menu li a.Hover:link,
+					#menu li a.Hover:visited,
+					#menu li a:hover {
+						background: url(../images/bg-item-loop.gif) repeat-x left top;
+						text-decoration: none;
+						color: #336699;
+					}
+						#menu li a.Hover:link .LeftBg,
+						#menu li a.Hover:visited .LeftBg,
+						#menu li a:hover .LeftBg {
+							background: url(../images/bg-item-left.gif) no-repeat left top;
+						}
+							#menu li a.Hover:link .RightBg,
+							#menu li a.Hover:visited .RightBg,
+							#menu li a:hover .RightBg {
+								background: url(../images/bg-item-right.gif) no-repeat right top;
+							}
+						#menu ul {
+							position: absolute;
+							top: 30px;
+							width: auto;
+							left: -999em;
+						}
+							#menu ul li {
+								float: left;
+								background: url(../images/border-02-blue.gif) no-repeat left 10px !important;
+								color: #336699;
+							}
+							#menu ul li.FirstItem {
+								background: none  !important;
+							}
+								#menu ul li a:link,
+								#menu ul li a:visited {
+									float: none;
+									color: #336699;
+									font-weight: normal;
+								}
+								#menu ul li a.LinkStyle03:link,
+								#menu ul li a.LinkStyle03:visited {
+									text-decoration: underline;
+								}
+								#menu ul li a.Active:link,
+								#menu ul li a.Active:visited,
+								#menu ul li a:hover {
+									background: none !important;
+								}
+	.SearchBox {
+		position: absolute;
+		right: 39px;
+		top: 34px;
+	}			
+		.SearchBox select {
+			font-size: 1.2em;
+			float: left;
+			margin: 2px 3px 0 0;
+		}
+		.SearchTextBox {
+			background: url(../images/bg-searchbox.gif) no-repeat left top;
+			border: none;
+			padding: 5px 0 0 23px;
+			margin: 0 3px 0 0;
+			width: 140px;
+			height: 18px;
+			font-size: 1.1em;
+			color: #969EB5;
+			float: left;
+		}	
+		.SearchBtn {		
+			background: url(../images/bg-searchbtn.gif) no-repeat left top;
+			width: 63px;
+			height: 23px;
+			border: none;
+			font-size: 1.1em;
+			color: #FFF;
+			font-weight: bolder;
+			cursor: pointer;
+			float: left;
+			margin: 0;
+		}

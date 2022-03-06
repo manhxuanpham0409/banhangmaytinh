@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tim_theo_ten" value="name:TenSP;datatype:string,name:MoTa;datatype:blob,name:HinhAnh;datatype:string,name:DonGia;datatype:real,name:BaoHanh;datatype:int,name:NgayCapNhat;datatype:date,name:SoLuongTonKho;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rshangsx1" value="name:Ten;datatype:string,name:ThuTu;datatype:int,name:AnHien;datatype:int,name:idHang;datatype:int" />
+</info>

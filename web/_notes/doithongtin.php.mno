@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_user_" value="name:ho_ten;datatype:int,name:user;datatype:int,name:pass;datatype:int,name:GioiTinh;datatype:int,name:NgaySinh;datatype:int,name:DiaChi;datatype:int,name:DienThoai;datatype:int,name:Email;datatype:int,name:NgayTao;datatype:int,name:idUser;datatype:int" />
+	<infoitem key="UD_doithongtin" value="name:idUser;datatype:int,name:ho_ten;datatype:string,name:user;datatype:string,name:pass;datatype:string,name:GioiTinh;datatype:string,name:NgaySinh;datatype:date,name:DiaChi;datatype:string,name:DienThoai;datatype:string,name:Email;datatype:string,name:NgayTao;datatype:date" />
+</info>

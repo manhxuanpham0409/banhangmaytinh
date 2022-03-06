@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+.phantrang{ background-color:#000000;color:#FF0000; font-size:13px; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold}
+.phantrang:link,.phantrang:visited{ color:#00FF00; text-decoration:none;;}
+.phantrang:hover{ color:#FFFF00;}
+.tensp{
+	color:#060606;
+	font-size:0.7em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+.giaban{
+	color:#FF0000;
+	font-size:.7em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.chitiet{color:#46aa10; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;}
+.chitiet:link,.chitiet:vistied{text-decoration:underline}
+.hinh {
+	height: 90px;
+	width: 109px;
+}
+.chitiet:hover{ text-decoration:none}
+.ngaycapnhat{ color:#333333; font-size:10px; font-family:Arial, Helvetica, sans-serif;}
+.thanhthongtin{background-image:url(../images/thanhthongtin.png); background-repeat:no-repeat;height:41px; color:#FFFFFF; font-weight:bold; font-size:20px; font-family:Arial, Helvetica, sans-serif; text-align:center;}
+table{ margin:auto;}
+.baohanh{ color:#000000; font-size:12px; font-family:Arial, Helvetica, sans-serif;}
+.mota{color:#333333; font-size:12px; font-family:Arial, Helvetica, sans-serif; padding-left:5px; text-decoration:underline}
+.textmota{color:#333333; font-size:12px; font-family:Arial, Helvetica, sans-serif; padding-left:5px;}
+.chitietsp{ margin-top:10px; border:#CCCCCC solid 1px;}
+.textchitiet{ background-color:#006666; color:#FFFFFF; text-align:center; font-size:18px; font-family:"Courier New", Courier, monospace ;font-weight:bold;}
+.khungchitiet{ font-size:9px; text-align:center; margin-top:1px;}
+
+.khung .phansanpham .chitiet {
+	margin-bottom:1px;
+}
+.khungchosanpham {
+	height: 220px;
+	width: 160px;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.hinhgiohang {
+	height: 25px;
+	width: 25px;
+	vertical-align:middle;
+}
+.khungsoluong{
+	height:12px;
+	width:30px;
+	font-size:9px;
+	color:#FF0000;
+	}
+#gach {
+	border-bottom: 1px dotted #999999; 
+}
+.fieldset {
+	-moz-border-radius: 6px;
+	width: 170px !important;
+  	max-width: 170px !important;
+	height: 200px !important;
+	max-height:200px !important;
+	word-wrap: break-word;
+}
+.phansanpham fieldset {
+	-moz-border-radius: 6px;
+}
+.legend{
+	font-size:11px;
+	color:#333333;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}

@@ -1,0 +1,88 @@
+@charset "utf-8";
+div .khung {
+	width:600px;
+	margin:auto;
+	height:800px;
+	overflow:scroll;
+	text-align: justify;
+}
+div .khung1 {
+	width:600px;
+	margin:auto;
+	height:auto;
+	text-align: justify;
+}
+.tieude{ 
+	color:#0033FF;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:bold;}
+.tieude1{ 
+	color:#0033FF;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	}
+.noidung{
+	color:#003333;
+	font-family:Arial, Helvetica, sans-serif
+	font-size:12px;
+	text-align:justify;
+	}	
+.ngaycapnhat {
+	color:#333333;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	}
+.hinh{
+	padding-left:5px;
+	height: 90px;
+	width: 109px;
+	}
+.tomtat{
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-left:20px;
+	text-align:justify;
+	}
+.linktieude:link,.linktieude:visited{
+	color:#006666;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	text-decoration:none;
+}
+.linktieude:hover
+	{
+	color:#FF6600;
+}
+.quayve{color:#46aa10; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;}
+.quayve:link,.quayve:vistied{text-decoration:underline}
+.quayve:hover{ text-decoration:none}
+h1{
+	color:#CC0000;
+	text-align:center;
+	padding-bottom:20px;
+	text-transform:uppercase;
+}	
+
+.hopdangki{
+	border:#99CCFF solid 1px;
+	background-color:#FFFFCC;
+	}
+.textdangki{
+	color:#0033FF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}	
+.gach {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999999;
+	margin-top: 3px;
+}
+.khung fieldset {
+	 margin-bottom: 6px;
+	 -moz-border-radius: 6px;
+}
+

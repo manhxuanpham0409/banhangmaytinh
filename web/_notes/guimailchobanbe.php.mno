@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsguimail" value="name:mailNG;datatype:int,name:mailNN;datatype:int,name:loinhan;datatype:int,name:Ngaygui;datatype:int,name:link;datatype:int,name:idSP;datatype:int,name:idMail;datatype:int" />
+</info>

@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;}
+#left {
+	width: 137px;
+	clear: left;
+	max-height:100%;
+}
+#hangsanxuat {
+	width: 137px;
+	float: left;
+	clear: none;
+}
+#left #hangsanxuat #titlehangsanxuat {
+	width:137px;
+	height:27px;
+	background-image:url(../images/bgdanhmuc.png);
+	background-repeat:no-repeat;
+	text-align:center; color:#336600; 
+	font-size:12px;
+	vertical-align:middle;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:27px;
+}
+#name {
+	width:auto;
+	height:28px;
+	background-image:url(../images/nen1.gif);
+	background-repeat:repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	vertical-align:middle;
+	padding-left:10px;
+	line-height:28px;
+}
+.linktrai{
+	color:#FFFFFF;
+	text-decoration:none;
+	vertical-align: middle;
+}
+.linktrai:visited{
+	color:#FFFFFF
+	text-decoration:none;
+	}
+.linktrai:hover{
+	color:#FFFFFF
+	text-decoration:underline;
+	}

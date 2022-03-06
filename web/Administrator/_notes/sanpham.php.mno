@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rssanpham1" value="name:TenSP;datatype:string,name:Ten;datatype:string,name:TenCL;datatype:string,name:Ten1;datatype:string,name:SoLanXem;datatype:int,name:SoLanMua;datatype:int,name:SoLuongTonKho;datatype:int,name:AnHien;datatype:int,name:idSP;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:Ten;datatype:string,name:idHang;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:TenCL;datatype:string,name:idCL;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:Ten;datatype:string,name:idLoaiSP;datatype:int" />
+</info>

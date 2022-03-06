@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_master1loaisp" value="name:idLoaiSP;datatype:int,name:idCL;datatype:int,name:Ten;datatype:string,name:ThuTu;datatype:int,name:AnHien;datatype:int" />
+	<infoitem key="UD_master1chungloai" value="name:idCL;datatype:int,name:TenCL;datatype:string,name:LinhTinh;datatype:int,name:AnHien;datatype:int" />
+	<infoitem key="UD_detail2sanpham" value="name:idSP;datatype:int,name:TenSP;datatype:string,name:idCL;datatype:int,name:idLoaiSP;datatype:int,name:idHang;datatype:int,name:MoTa;datatype:blob,name:HinhAnh;datatype:string,name:DonGia;datatype:real,name:BaoHanh;datatype:int,name:NgayCapNhat;datatype:date,name:SoLanXem;datatype:int,name:SoLanMua;datatype:int,name:TinhTrang;datatype:int,name:SoLuongTonKho;datatype:int,name:ThuTu;datatype:int,name:AnHien;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sp" value="name:idSP;datatype:int,name:TenSP;datatype:string,name:HinhAnh;datatype:string,name:DonGia;datatype:real,name:BaoHanh;datatype:int,name:NgayCapNhat;datatype:date" />
+</info>

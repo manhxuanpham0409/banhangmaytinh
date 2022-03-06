@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+#login {
+	margin:auto;
+	height:200px;
+	width:600px;
+	padding:60px;
+}
+#login #login_title {
+	color: #0000FF;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+#login #dangnhap {
+	float: right;
+	height: 100px;
+	margin-bottom:0px;
+}
+#login #form100 #dangnhap #user,#pass {
+	padding:2px;
+}
+#login #form100 #dangnhap #sub {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color:#333333;
+	text-decoration: none;
+}
+#login #logo {
+	float: left;
+	width: 408px;
+}
+
+div { border:#990000 solid 0px;}
+
+.admin {
+	width: 950px;
+	margin: auto;
+	max-width:950px;
+		}
+.admin fieldset{
+	}a {
+	color: #0066FF;
+	text-decoration: none;
+}
+a:link {
+	color: #0066FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #0066FF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF6600;
+	text-decoration: none;
+}
+
+.jumpMenu {
+	width: 160px;
+	font-size: 10px;
+	margin: auto;
+}
+
+fieldset {
+	-moz-border-radius: 6px;		
+	margin:5px 2px;
+	text-decoration: none;
+}
+.tieude {
+	color: #006666;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	border:#999900 solid 1px;
+}
+.ten {
+	color: #000000;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	background-color: #FFFFCC;
+	border:#999900 solid 1px;
+}
+.ten1{
+	color: #000000;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	border-bottom:#0066FF dotted 1px;
+	border-right:#0066FF dotted 1px;
+	border-left:#0066FF dotted 1px;
+}
+.ten2{
+	color: #000000;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;	
+}
+.nhaplieu{
+	width:150px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;}
+#tintuc {
+
+	font-family: "Courier New", Courier, monospace;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+}
+#tieude {
+
+
+	font-family: "Courier New", Courier, monospace;
+	font-size: 18px;
+	color: #0066FF;
+	text-decoration: none;
+}
+.content {
+	float:left;
+	width:950px;
+	margin:auto;
+}.admin h2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: #000000;
+}

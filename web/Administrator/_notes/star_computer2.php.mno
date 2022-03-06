@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_master1nhomchucnang" value="name:idNhomCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_detail2chucnang" value="name:idCN;datatype:int,name:TenCN;datatype:string" />
+</info>

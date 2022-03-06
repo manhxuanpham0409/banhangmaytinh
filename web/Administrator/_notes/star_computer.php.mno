@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_chucnang" value="name:idNhomCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_rscustom" value="name:kt_login_id;datatype:int" />
+	<infoitem key="UD_subCN" value="name:idCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_cn" value="name:idCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_master1nhomchucnang" value="name:idNhomCN;datatype:int,name:TenCN;datatype:string" />
+	<infoitem key="UD_detail2chucnang" value="name:idCN;datatype:int,name:TenCN;datatype:string,name:urlHinh;datatype:string,name:NoiDung;datatype:blob,name:idNhomCN;datatype:int,name:AnHien;datatype:int" />
+</info>

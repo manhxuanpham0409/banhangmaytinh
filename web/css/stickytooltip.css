@@ -1,0 +1,6 @@
+.stickytooltip {
+	BORDER-RIGHT: black 5px solid; BORDER-TOP: black 5px solid; DISPLAY: none; Z-INDEX: 3000; BACKGROUND: white; BORDER-LEFT: black 5px solid; BORDER-BOTTOM: black 5px solid; POSITION: absolute; box-shadow: 5px 5px 8px #818181; -webkit-box-shadow: 5px 5px 8px #818181; -moz-box-shadow: 5px 5px 8px #818181
+}
+.stickytooltip .stickystatus {
+	BACKGROUND: black; FONT: bold 11px Arial; COLOR: white; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
